@@ -18,3 +18,6 @@ This project is an Excel-based personal finance tracker to monitor expenses and 
 
 ## Purpose
 Built as a beginner project to apply Excel concepts practically.
+
+## Preview
+![Dashboard](dashboard.jpeg)
